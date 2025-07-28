@@ -2,7 +2,7 @@ import React, { useState, useEffect, useMemo, useRef } from 'react';
 import { Plus, X, WashingMachine, Shirt, Trash2, MoreVertical, Sparkles, Wand2, LogOut } from 'lucide-react';
 
 // --- API Configuration ---
-const API_BASE_URL = 'http://localhost:8080';
+const API_BASE_URL = 'https://digirobe-7cbf57496f69.herokuapp.com';
 
 // =================================================================================
 // --- Main App Component (Handles Routing and Auth State) ---
