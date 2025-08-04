@@ -42,19 +42,9 @@ This project is a full-stack application built with a modern, industry-standard 
 
 ### Artificial Intelligence
 * **Model:** Google Gemini API for natural language understanding and outfit generation.
-
-### Architecture Diagram
-
-+------------------------+      +--------------------------+      +---------------------+
-|   React Frontend       |      |    Spring Boot Backend   |      |   PostgreSQL DB     |
-|  (on Netlify)          |----->|   (Docker on Render)     |<---->|   (on Render)       |
-|                        |      | - Spring Security (JWT)  |      |                     |
-+------------------------+      | - Spring Data JPA        |      +---------------------+
-|                          |
-+-------------+------------+
-|
 |
 +-------------V------------+
 |   Google Gemini API      |
 | (for Outfit Suggestions) |
 +--------------------------+
+
