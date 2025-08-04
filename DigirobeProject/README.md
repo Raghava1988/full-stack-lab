@@ -1,7 +1,7 @@
 
 # Digirobe - Your Smart Digital Wardrobe
 
-![Digirobe Login Screen](httpshttps://via.placeholder.com/800x450.png?text=Add+Login+Screen+Screenshot+Here)
+![Digirobe Login Screen](DigirobeProject/digirobe/screenshots/01-login-screen.png)
 
 **Live Demo:** [https://digirobe.netlify.app/](https://digirobe.netlify.app/)
 
