@@ -3,6 +3,8 @@
 
 ![Digirobe Login Screen](./digirobe/screenshots/01-login-screen.png)
 
+![Digirobe Home Screen](./digirobe/screenshots/06-ProductHomepage.png)
+
 **Live Demo:** [https://digirobe.netlify.app/](https://digirobe.netlify.app/)
 
 ## The Story Behind Digirobe
@@ -43,6 +45,8 @@ This project is a full-stack application built with a modern, industry-standard 
 
 ### Artificial Intelligence
 * **Model:** Google Gemini API for natural language understanding and outfit generation.
+
+* ![Digirobe Home Screen](./digirobe/screenshots/07-AISuggestion.png)
 
 
 
